@@ -39,6 +39,9 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 
 ### **1. Total Movies and TV Shows by Country**
 
+(<img width="541" alt="image" src="https://github.com/user-attachments/assets/f1fd03e7-077d-4f0a-a004-9ea6a4b4fc24" />
+)
+
 #### Key Insights:
 - **Content Hubs:** The USA, India, the United Kingdom, Japan, and Canada are the top five countries acting as major production hubs.
 - **Market Saturation:** These countries have robust and established content creation industries.
@@ -49,6 +52,9 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 
 ### **2. Dominant Genres**
 
+(<img width="585" alt="image" src="https://github.com/user-attachments/assets/035ed42d-b9ed-4231-bf42-b08843a39e3f" />
+)
+
 #### Key Insights:
 - **Top Genres:** Dramas, Documentaries, and Stand-Up Comedy are the top three genres, guiding Netflix’s content creation and acquisition strategies.
 - **Cross-Genre Appeal:** International Movies, Drama, and Comedy are frequently recurring genres, resonating well with viewers.
@@ -57,6 +63,8 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 ---
 
 ### **3. Number of Netflix Shows Released Year-Wise**
+
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/50abce2e-b63c-4f3a-bb11-fb86fe98af7a" />
 
 #### Key Insights:
 - **Early Years (1990s):** Few shows and movies were released via CDs or DVDs.
@@ -70,6 +78,8 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 
 ### **4. Relationship Between Show Duration and Ratings**
 
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/45c1adc1-63f6-4095-8acd-e5a3876d0b0a" />
+
 #### Key Insights:
 - **Peak Engagement:** Shows with durations between 70–90 minutes received the most ratings.
 - **Lower Engagement:** Shows exceeding 100 minutes received fewer ratings.
@@ -80,6 +90,8 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 
 ### **5. User Engagement and Content Ratings**
 
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/b3224392-68c6-4e02-9edd-25c2c502e516" />
+
 #### Key Insights:
 - **Viewer Preferences:** Popular ratings in certain years reveal viewer inclinations, such as an increase in TV-MA content indicating a preference for mature narratives.
 - **Evolution Over Time:** Fluctuations in high-rated content show shifts in audience choices based on cultural trends and new genres.
@@ -88,6 +100,8 @@ We explore the distribution of content (movies and TV shows) on Netflix over tim
 ---
 
 ## Dashboard Overview
+
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/d30b99fe-0519-4146-837f-4689a9164fe9" />
 
 Through our dashboard, we can explore the world of Netflix:
 - **Global Map:** Shows where movies and TV shows are popular.
@@ -113,8 +127,7 @@ These insights help stakeholders make informed decisions in content creation, ma
 
 ### **Author(s):**
 **ISYS 850 - Group Project**
--- **Ananya Shaahi**
--- **Shaik Faiz Ahamed**
--- **Kiran Ranganalli**
+
+---
 
 
