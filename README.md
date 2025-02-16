@@ -128,6 +128,12 @@ These insights help stakeholders make informed decisions in content creation, ma
 ### **Author(s):**
 **ISYS 850 - Group Project**
 
+--*Ananya Shahi*
+
+--*Shaik Faiz Ahamed*
+
+--*Kiran Ranganalli*
+
 ---
 
 
